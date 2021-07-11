@@ -10,7 +10,7 @@
     "build": "webpack --config webpack.prod.js"
   },
   "keywords": [],
-  "homepage": "https://kanrin-cyou.github.com/myfolio",
+  "homepage": "https://kanrin-cyou.github.com/myportfolio",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^5.2.6",
